@@ -2,7 +2,7 @@
 
 
 
-![my_img](https://res.cloudinary.com/grohealth/image/upload/c_fill,f_auto,fl_lossy,h_650,q_auto,w_1085/v1581695681/DCUK/Content/causes-of-diabetes.png)
+![my_img](https://st1.thehealthsite.com/wp-content/uploads/2020/11/Diabetes-2-1024x569.jpg)
 
 
 In this project we are using tech like : 
