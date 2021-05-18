@@ -10,7 +10,11 @@ In this project we are using tech like :
 <li>HTML </li>
 <li> CSS 3</li>
 <li> Bootstrap 5 </li>
-<li> Flask </li>
-<li> Heroku </li>
-<li> Gunicorn </li>
- l
+
+
+### Futher we use deployment using these tools
+
+<ol>
+ <li>Flask</li>
+ <li>Heroku</li>
+ <li>Gunicorn</li>
